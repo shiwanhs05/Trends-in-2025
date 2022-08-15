@@ -1,4 +1,4 @@
-### [DeployedLink](https://www.google.com)
+### [DeployedLink](https://trend-styles25.netlify.app/)
 # Trends in 2025 - HTML ![](./readmeImgs/html-5.png) and CSS ![](./readmeImgs/css-3.png)
 By Shiwansh
 
